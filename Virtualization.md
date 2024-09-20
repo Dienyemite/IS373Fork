@@ -1,6 +1,5 @@
 Virtualization
  
-Dienyemite edited this page 2 hours ago · 3 revisions
 Virtualization is the process of creating a virtual version of a system, such as hardware platforms, storage devices, and networks. It allows a single physical machine to run multiple operating systems (OSes) simultaneously by abstracting the hardware and resources. Let’s explore the three main types of virtualization—Full Virtualization, Paravirtualization, and Hardware-assisted Virtualization—with examples, graphs, and terminal snippets for each.
 
 Full Virtualization Definition: Full virtualization provides a complete simulation of the underlying hardware, allowing an unmodified operating system to run in a virtual machine (VM) without modification. The guest OS is unaware it is being virtualized and interacts with virtual hardware as if it were the physical hardware.
